@@ -1,0 +1,5 @@
+1. Przedstaw na wykresie minimalną i maksymalną dzienną z podziałem na miesiące
+2. Który miesiąc był najcieplejszy / najzimniejszy
+3. W którym miesiącu osiągnięta największą / najmniejszą maksymalną / minimalną temperaturę
+4. Pokaż wykres średniego ciśnienia w pierwszej połowie roku
+5. Jakie były dzienne opady w ciągu roku
